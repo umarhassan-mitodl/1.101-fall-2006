@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 132e9df6-69b8-8310-fa14-b798fa7742ad
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ea0373f3-e15a-4996-d70c-691ad5b9b30e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 1a478646-505a-a226-fa0b-d128902fe187
+  name: Water Resources
+  pageRef: /pages/water-resources
+  weight: 30
+- identifier: d588dff9-8a1b-2022-8c19-f23ffd42ae97
+  name: Structures
+  pageRef: /pages/structures
+  weight: 40
+- identifier: cd2f3571-638a-cb4a-7b0b-346dc274fc85
+  name: Developing Back Bay
+  pageRef: /pages/developing-back-bay
+  weight: 50
+- identifier: adc5bd74-d4f0-7aca-7fc3-0a15af98975e
+  name: Delta Game
+  pageRef: /pages/delta-game
+  weight: 60
