@@ -5,6 +5,8 @@ description: This file is a resource which contains information Filter design ta
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/095e3587021f2b6436792a3c01484c2a_design_report.pdf
 file_size: 160112
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

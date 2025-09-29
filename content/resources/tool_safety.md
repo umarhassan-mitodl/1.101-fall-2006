@@ -4,6 +4,8 @@ description: Handout on Personal Safety and Tool Care.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/b1ed69f05a3e9b58bd376aa44deb8f0d_tool_safety.pdf
 file_size: 58575
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
