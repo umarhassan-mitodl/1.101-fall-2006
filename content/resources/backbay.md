@@ -6,8 +6,6 @@ description: 'This handout covers a number of topics related to the design proje
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/e7746694920b45b7386cc28aa6f76399_backbay.pdf
 file_size: 599114
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,8 +5,6 @@ description: This resource discusses about life on delta P, design team roles an
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/0a6b4106bdd7394956695c66e9bf6b4f_architect.pdf
 file_size: 80518
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
